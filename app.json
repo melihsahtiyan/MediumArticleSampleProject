@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MediumArticleSampleProject",
+    "slug": "MediumArticleSampleProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MediumArticleSampleProject"
+}
