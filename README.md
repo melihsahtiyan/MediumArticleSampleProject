@@ -42,7 +42,7 @@ Before running the app, you need to have the following tools installed on your m
    ```
    npm install
    ```
-or
+   or
    ```
    yarn install
    ```
