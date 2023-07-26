@@ -39,11 +39,13 @@ Before running the app, you need to have the following tools installed on your m
    ```
 
 2. Install the project dependencies:
-    ```
-    npm install
-    # or
-    yarn install
-    ```
+   ```
+   npm install
+   ```
+or
+   ```
+   yarn install
+   ```
 
 ## Running the App
 To start the app, run the following command:
